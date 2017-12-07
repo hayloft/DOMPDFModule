@@ -2,7 +2,7 @@
     "name": "hayloft/dompdf-module",
     "replace": {
         "dino/dompdf-module": "dev-master"
-    }
+    },
     "type": "library",
     "description": "A Zend Framework 2 module for incorporating DOMPDF support.",
     "keywords": ["pdf","dompdf", "zf2"],
